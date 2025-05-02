@@ -132,3 +132,4 @@ C:\Users\RONALD\Desktop\Programacion\SistemaAdopcionMascotas\obj\Debug\net8.0\re
 C:\Users\RONALD\Desktop\Programacion\SistemaAdopcionMascotas\obj\Debug\net8.0\SistemaAdopcionMascotas.pdb
 C:\Users\RONALD\Desktop\Programacion\SistemaAdopcionMascotas\obj\Debug\net8.0\SistemaAdopcionMascotas.genruntimeconfig.cache
 C:\Users\RONALD\Desktop\Programacion\SistemaAdopcionMascotas\obj\Debug\net8.0\ref\SistemaAdopcionMascotas.dll
+C:\Users\RONALD\Desktop\Programacion\SistemaAdopcionMascotas\obj\Debug\net8.0\SistemaAdopcionMascotas.sourcelink.json

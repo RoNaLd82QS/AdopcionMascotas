@@ -1,0 +1,23 @@
+@model List<SistemaAdopcionMascotas.Models.Adopter>
+
+@{
+    ViewData["Title"] = "Lista de Adoptantes";
+}
+
+<h2>Lista de Adoptantes</h2>
+
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>Nombre</th>
+        </tr>
+    </thead>
+    <tbody>
+    @foreach (var adopter in Model)
+    {
+        <tr>
+            <td>@adopter.Nombre</td>
+        </tr>
+    }
+    </tbody>
+</table>
