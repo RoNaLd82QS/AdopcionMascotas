@@ -1,0 +1,33 @@
+@model dynamic
+
+@{
+    ViewData["Title"] = "Asignar Mascota";
+    var mascotas = ViewBag.Pets as List<SistemaAdopcionMascotas.Models.Pet>;
+    var adoptantes = ViewBag.Adopters as List<SistemaAdopcionMascotas.Models.Adopter>;
+}
+
+<h2>Asignar Mascota a Adoptante</h2>
+
+<form asp-action="Asignar" method="post">
+    <div class="form-group">
+        <label for="petId">Mascota</label>
+        <select name="petId" class="form-control" required>
+            @foreach (var pet in mascotas)
+            {
+                <option value="@pet.Id">@pet.Nombre (@pet.Tipo)</option>
+            }
+        </select>
+    </div>
+
+    <div class="form-group">
+        <label for="adopterId">Adoptante</label>
+        <select name="adopterId" class="form-control" required>
+            @foreach (var adopter in adoptantes)
+            {
+                <option value="@adopter.Id">@adopter.Nombre</option>
+            }
+        </select>
+    </div>
+
+    <button type="submit" class="btn btn-success">Confirmar Adopción</button>
+</form>

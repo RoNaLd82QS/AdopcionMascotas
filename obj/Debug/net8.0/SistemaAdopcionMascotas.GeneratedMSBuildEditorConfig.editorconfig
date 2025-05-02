@@ -26,12 +26,36 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\RONALD\Desktop\Programacion\SistemaAdopcionMascotas
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/RONALD/Desktop/Programacion/SistemaAdopcionMascotas/Views/Adopter/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRvcHRlclxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/RONALD/Desktop/Programacion/SistemaAdopcionMascotas/Views/Adopter/Lista.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRvcHRlclxMaXN0YS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/RONALD/Desktop/Programacion/SistemaAdopcionMascotas/Views/Adoption/Asignar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRvcHRpb25cQXNpZ25hci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/RONALD/Desktop/Programacion/SistemaAdopcionMascotas/Views/Adoption/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRvcHRpb25cQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/RONALD/Desktop/Programacion/SistemaAdopcionMascotas/Views/Adoption/Lista.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRvcHRpb25cTGlzdGEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/RONALD/Desktop/Programacion/SistemaAdopcionMascotas/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/RONALD/Desktop/Programacion/SistemaAdopcionMascotas/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/RONALD/Desktop/Programacion/SistemaAdopcionMascotas/Views/Pet/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGV0XENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/RONALD/Desktop/Programacion/SistemaAdopcionMascotas/Views/Shared/Error.cshtml]
